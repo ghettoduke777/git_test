@@ -6,4 +6,4 @@
 
 ###Practicing git flow 
 
-Hello Odine!
+Hello Odin!
